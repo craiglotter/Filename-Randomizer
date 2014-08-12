@@ -1,0 +1,10 @@
+Filename Randomizer renames all the files within a specified folder, generated a random name for each file. The randomizer makes use of random number concatenation, plus a time stamp, all of which is then hashed using MD5 to leave us with the final random file name. Note that the folder parsing is not recursive in nature.
+
+The files are all backed up before the process is undertaken.
+
+To start the operation, simply click on the Begin button. 
+
+The help and about menu options brings up the help and about dialog boxes respectively.
+
+
+-- Last Updated: 19/10/2007 --
